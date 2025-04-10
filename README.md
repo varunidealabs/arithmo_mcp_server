@@ -1,4 +1,4 @@
-# Arithmo MCP Server
+# Arithmo MCP Server pypi Package
 
 An MCP server providing fast arithmetic operations like addition, subtraction, multiplication, and division — designed for speed and simplicity.
 
