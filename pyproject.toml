@@ -18,7 +18,7 @@ dependencies = [
 ]
 
 [project.urls]
-"Repository" = "https://github.com/varunidealabs/simple-calculator-mcp-server.git"
+"Repository" = "https://github.com/varunidealabs/arithmo_mcp_server.git"
 
 [project.scripts]
 simple-calculator = "simple_calculator.server:main"
